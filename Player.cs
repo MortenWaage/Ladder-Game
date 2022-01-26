@@ -20,7 +20,7 @@ namespace LadderGame
 
         public void UseLadder(int? position = null)
         {
-            Position = (Game.BoardSize) - position ?? Position;
+            Position = Game.BoardSize - position ?? Position;
         }
     }
 }
