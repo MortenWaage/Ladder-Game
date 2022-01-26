@@ -1,0 +1,16 @@
+D:\Code Projects\LadderGame\LadderGame\bin\Debug\net5.0\LadderGame.exe
+D:\Code Projects\LadderGame\LadderGame\bin\Debug\net5.0\LadderGame.deps.json
+D:\Code Projects\LadderGame\LadderGame\bin\Debug\net5.0\LadderGame.runtimeconfig.json
+D:\Code Projects\LadderGame\LadderGame\bin\Debug\net5.0\LadderGame.runtimeconfig.dev.json
+D:\Code Projects\LadderGame\LadderGame\bin\Debug\net5.0\LadderGame.dll
+D:\Code Projects\LadderGame\LadderGame\bin\Debug\net5.0\ref\LadderGame.dll
+D:\Code Projects\LadderGame\LadderGame\bin\Debug\net5.0\LadderGame.pdb
+D:\Code Projects\LadderGame\LadderGame\obj\Debug\net5.0\LadderGame.csproj.AssemblyReference.cache
+D:\Code Projects\LadderGame\LadderGame\obj\Debug\net5.0\LadderGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Projects\LadderGame\LadderGame\obj\Debug\net5.0\LadderGame.AssemblyInfoInputs.cache
+D:\Code Projects\LadderGame\LadderGame\obj\Debug\net5.0\LadderGame.AssemblyInfo.cs
+D:\Code Projects\LadderGame\LadderGame\obj\Debug\net5.0\LadderGame.csproj.CoreCompileInputs.cache
+D:\Code Projects\LadderGame\LadderGame\obj\Debug\net5.0\LadderGame.dll
+D:\Code Projects\LadderGame\LadderGame\obj\Debug\net5.0\ref\LadderGame.dll
+D:\Code Projects\LadderGame\LadderGame\obj\Debug\net5.0\LadderGame.pdb
+D:\Code Projects\LadderGame\LadderGame\obj\Debug\net5.0\LadderGame.genruntimeconfig.cache
