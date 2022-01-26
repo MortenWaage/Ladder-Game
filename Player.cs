@@ -15,7 +15,7 @@ namespace LadderGame
         public void Move(int distance)
         {
             Position -= distance;
-            if (Position < 0) Position = (Game.BoardSize + 1) - Math.Abs(Position);
+            if (Position < 0) Position = Game.BoardSize - Math.Abs(Position);
         }
 
         public void UseLadder(int? position = null)
